@@ -2,7 +2,7 @@
 Analyzing Factors Contributing to School Performance
 
 using:
-Principal Component Regression,
+Principal Component Regression, \n
 Partial Least Squares Regression,
 Multinomial Logistic Regression,
 Support Vector Machine Classification
