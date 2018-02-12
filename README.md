@@ -1,4 +1,10 @@
-# Data_Mining_PLSR_and_PCR_on_School_Performance_Data
-Partial Least Squares and Principal Component Regression Analysis of Factors Contributing to School Performance
+# Data_Mining_School_Performance_Data
+Analyzing Factors Contributing to School Performance
+
+using:
+Principal Component Regression,
+Partial Least Squares Regression,
+Multinomial Logistic Regression,
+Support Vector Machine Classification
 
 Team Members: Dr. Jack K. Rasmus-Vorrath, Rangaswamy Nagarajan, Asha Mohan, Andrew Shen
