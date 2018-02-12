@@ -1,5 +1,5 @@
 # Data_Mining_School_Performance_Data
-Analyzing Factors Contributing to School Performance, using:
+Analyzing Factors Contributing to School Performance in North Carolina, using:
 
 Principal Component Regression,
 
