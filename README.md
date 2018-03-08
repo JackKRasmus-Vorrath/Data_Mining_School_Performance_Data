@@ -7,6 +7,8 @@ Partial Least Squares Regression,
 
 Multinomial Logistic Regression,
 
+Gradient Boosting Regression,
+
 Support Vector Machine Classification
 
 
