@@ -9,7 +9,9 @@ Multinomial Logistic Regression,
 
 Gradient Boosting Regression,
 
-Support Vector Machine Classification
+Support Vector Machine Classification,
+
+Dense Neural Network Classification
 
 
 Team Members: Dr. Jack K. Rasmus-Vorrath, Rangaswamy Nagarajan, Asha Mohan, Andrew Shen
