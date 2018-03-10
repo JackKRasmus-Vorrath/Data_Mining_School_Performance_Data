@@ -9,6 +9,8 @@ Multinomial Logistic Regression,
 
 Gradient Boosting Regression,
 
+KNN Regression,
+
 Support Vector Machine Classification,
 
 Dense Neural Network Classification
