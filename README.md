@@ -11,6 +11,16 @@ Gradient Boosting Regression,
 
 KNN Regression,
 
+KNN Classification,
+
+K-Means++ Classification,
+
+DBSCAN Classification,
+
+Affinity Propagation Classification,
+
+Spectral Clustering Classification,
+
 Support Vector Machine Classification,
 
 Dense Neural Network Classification
